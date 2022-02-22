@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rinnnt
-- 👀 I’m interested in Python, C++, Machine Learning & Deep Learning.
+- 👀 I’m interested in Python, C++, Javascript, Machine Learning & Deep Learning.
 - 🌱 I’m currently deepening my understanding of the areas above.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: Email - tommykang77@naver.com
