@@ -1,10 +1,14 @@
 - 👋 Hi, I’m @Rinnnt
 - 👀🌱💞️ I play with Haskell, Kotlin, Python, C++, Machine Learning & Deep Learning.
-- 📫 How to reach me: Email - tommykang77@naver.com
+- 📫 How to reach me: Email - tommykang77@naver.com | tommy.kang22@imperial.ac.uk
 
-[![Rinnnt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rinnnt&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinnnt&theme=dracula&hide=html,css,scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!---
+[![Rinnnt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rinnnt&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+---!>
 
 
 
