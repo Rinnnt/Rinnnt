@@ -3,7 +3,7 @@
 - 📫 How to reach me: Email - tommykang77@naver.com | tommy.kang22@imperial.ac.uk
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinnnt&theme=dracula&hide=html,css,scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rinnnt&hide=html,css,scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
