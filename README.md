@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Rinnnt
-- 👀🌱💞️ I play with Haskell, Kotlin, Java, Python, C++, Machine Learning & Deep Learning.
 - 📫 How to reach me: Email - tommykang77@naver.com | tommy.kang22@imperial.ac.uk
 
 
