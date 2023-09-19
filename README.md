@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rinnnt
+- 👋 Hi, I’m Yejun Kang
 - 📫 How to reach me: Email - tommykang77@naver.com | tommy.kang22@imperial.ac.uk
 
 
